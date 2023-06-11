@@ -21,7 +21,13 @@ Features selection with wrangling and normalization: <br>
 Initialy Random Forest alghoritm selected: <br>
 <img src="https://github.com/WojtekSza/Spaceship-Titanic/blob/main/7.jpg" alt="spark" width="800"/>  <br>
 
+Results ROC 86% <br>
 <img src="https://github.com/WojtekSza/Spaceship-Titanic/blob/main/4.jpg" alt="spark" width="800"/>  <br>
-
-
+Results ~78% (precision, recall, F1, accuracy)
+<img src="https://github.com/WojtekSza/Spaceship-Titanic/blob/main/8.jpg" alt="spark" width="800"/>  <br>
+Final model: <br>
 <img src="https://github.com/WojtekSza/Spaceship-Titanic/blob/main/1.jpg" alt="spark" width="800"/>  <br>
+
+Let`s upload results into Kaggle and verify results:
+<img src="https://github.com/WojtekSza/Spaceship-Titanic/blob/main/s1.jpg" alt="spark" width="800"/>  <br>
+# Good match with prediction vs. verification 78% vs 79%!
