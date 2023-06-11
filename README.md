@@ -30,4 +30,4 @@ Final model: <br>
 
 Let`s upload results into Kaggle and verify results:
 <img src="https://github.com/WojtekSza/Spaceship-Titanic/blob/main/s1.jpg" alt="spark" width="800"/>  <br>
-# Good match with prediction vs. verification 78% vs 79%!
+# Not bad results and good match with prediction vs. verification 78% vs 79%!
